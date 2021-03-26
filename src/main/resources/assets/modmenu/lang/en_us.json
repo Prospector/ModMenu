@@ -3,6 +3,8 @@
   "modmenu.descriptionTranslation.modmenu": "Adds a mod menu to view the list of mods you have installed.",
   "modmenu.loaded": "(%s Loaded)",
   "modmenu.loaded.short": "(%s)",
+  "modmenu.loaded.outdated": "(%s Loaded, %s Outdated)",
+  "modmenu.loaded.short.outdated": "(%s,%s)",
   "modmenu.config": "Edit Config",
   "modmenu.modsFolder": "Open Mods Folder",
   "modmenu.configsFolder": "Open Configs Folder",
